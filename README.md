@@ -19,7 +19,7 @@ O objetivo é fornecer uma visão clara e intuitiva sobre **Win Rate, KDA, Dano,
   - Pontuação de visão por rota e rank
   - Farm (tropas abatidas) por rota e rank  
 - **Observações e insights** integrados ao dashboard
-- Para saber mais detalhes dos insights e das formas de realização do projeto, acesse o arquivo analise_dados_lol.py
+- Para saber mais detalhes dos insights e das formas de realização do projeto, acesse o arquivo analise_dados_lol.ipynb
 
 ---
 
